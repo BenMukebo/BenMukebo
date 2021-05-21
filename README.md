@@ -15,8 +15,8 @@
 
 <p align="center">
   <em>
-   Well, This is ME, Baraka Mukelenga, a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
-    <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
+   Well, This is ME, Kasongo Mukebo Ben, a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
+    <b>Front-end Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -41,21 +41,13 @@ fascinated</b>
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
-![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rails)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
 <hr>
 <br>
 🤓 **Interested:** <br>
 
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000) -->
 
