@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Baraka Mukelenga</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ben Kasongo Mukebo </h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/baraka-mukelenga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -27,8 +27,8 @@ fascinated</b>
 </p>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barackm&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barackm&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenMukebo&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenMukebo&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <hr>
 
