@@ -46,6 +46,11 @@ fascinated</b>
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
 <hr>
+
+### Connect with me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](@BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben-591720205/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](l.benkasmukebo7@gmail.com) [![Angellist profile]
+___
 <br>
 🤓 **Interested:** <br>
 
