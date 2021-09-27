@@ -15,8 +15,8 @@
 
 <p align="center">
   <em>
-   Well, This is ME, Kasongo Mukebo Ben, a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
-    <b>Front-end Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
+    Well, This is ME, Kasongo Mukebo Ben, student at <a href="https://img.shields.io/badge/Microverse-blueviolet"> <b> Microverse </b> </a> and <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
+    <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -26,11 +26,11 @@ fascinated</b>
 
   <summary><h2>What I currently do</h2></summary>
     
-- 🔭 I’m currently working on some stuf...
-- 🌱 I’m currently learning **React** and some high level programming skills🌍️.
-- 👯 I’m looking to collaborate on **Frontend-Web design, IOT(Arduino)**😄.
-- 🤔 I’m looking for help with **React Projects/Ideas**.
-- 💬 Ask me about **Front-end Web, IOT Arduino, Electrononic, TElecommunication and Networking **✨️..
+- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online training school.
+- 🌱 I’m currently learning **Vanilla JavaScript** and some high level programming skills🌍️.
+- 👯 I’m looking to collaborate on **Frontend-Web design**😄.
+- 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
+- 💬 Ask me about **Front-end Web, IOT (Arduino), and Networking **✨️..
 - 📫 How to reach me: +250784165613.
 -
 - ⚡ Fun fact: ...
