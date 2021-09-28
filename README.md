@@ -28,12 +28,11 @@ fascinated</b>
     
 - 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online training school.
 - 🌱 I’m currently learning **Vanilla JavaScript** and some high level programming skills🌍️.
-- 👯 I’m looking to collaborate on **Frontend-Web design**😄.
+- 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
-- 💬 Ask me about **Front-end Web, IOT (Arduino), and Networking **✨️..
-- 📫 How to reach me: +250784165613.
--
-- ⚡ Fun fact: ...
+- 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
+- 📫 How to reach me: `l.benkasmukebo7@gmail.com`.
+- ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitare and some musical instrument ... 🎵 
     
     <br>
 </p>
