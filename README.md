@@ -27,7 +27,7 @@ fascinated</b>
   <summary><h2>What I currently do</h2></summary>
     
 - 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online training school.
-- 🌱 I’m currently learning **Vanilla JavaScript** and some high level programming skills🌍️.
+- 🌱 I’m currently learning **Vanilla JavaScript, ES6, (APIs)**  and some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
@@ -54,7 +54,9 @@ fascinated</b>
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
 
 <hr>
 
