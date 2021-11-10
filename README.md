@@ -32,7 +32,7 @@ fascinated</b>
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
 - 📫 How to reach me: `l.benkasmukebo7@gmail.com`.
-- ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitare and some musical instrument ... 🎵 
+- ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
     
     <br>
 </p>
