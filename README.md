@@ -68,7 +68,7 @@ fascinated</b>
 ### Connect with me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
-![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)  [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
+[![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)  [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
 <!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
 
 
