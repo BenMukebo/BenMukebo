@@ -26,8 +26,8 @@ fascinated</b>
 
   <summary><h2>What I currently do</h2></summary>
     
-- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online training school.
-- 🌱 I’m currently learning **Vanilla JavaScript, ES6, (APIs)**  and some high level programming skills🌍️.
+- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers.
+- 🌱 I’m currently learning **Vanilla JavaScript, ES6, (APIs) React, Redux**  and some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
@@ -45,6 +45,7 @@ fascinated</b>
 
 💻 **Languages and Tools:** 🛠️<br>
 
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -57,12 +58,20 @@ fascinated</b>
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=blue)
+
 
 <hr>
 
 ### Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben-591720205/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo).
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
+![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)  [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
+<!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
+
+
 ___
 <br>
 🤓 **Interested:** <br>
