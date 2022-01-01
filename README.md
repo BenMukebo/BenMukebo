@@ -56,9 +56,10 @@ fascinated</b>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
+![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=blue)
 
