@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Well, This is ME, Kasongo Mukebo Ben, student at <a href="https://img.shields.io/badge/Microverse-blueviolet"> <b> Microverse </b> </a> and <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
+    Well, This is ME, Kasongo Mukebo Ben, student at <a href="https://www.microverse.org/"> <b> Microverse </b> </a> and <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
     <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
@@ -26,8 +26,8 @@ fascinated</b>
 
   <summary><h2>What I currently do</h2></summary>
     
-- 🔭 I’m currently styding at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers.
-- 🌱 I’m currently learning **Vanilla JavaScript, ES6, (APIs) React, Redux**  and some high level programming skills🌍️.
+- 🔭 I’m currently styding at <a href="https://www.microverse.org/"> ![](https://img.shields.io/badge/Microverse-blueviolet)</a> online school for software developers.
+- 🌱 I’m currently learning **Ruby on Rails(APIs)** and some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
 - 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
