@@ -65,7 +65,8 @@ fascinated</b>
 
 <hr>
 
-### Connect with me:
+<!-- ### Connect with me 📫: -->
+### 📬 You can reach me at :
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
 [![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)  [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
@@ -73,8 +74,9 @@ fascinated</b>
 
 
 ___
-<br>
-🤓 **Interested:** <br>
-
-<!-- ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000) -->
+<!-- <br> -->
+<!-- 🤓 **Interested:** <br> -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
+<p align="center"><img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together 🚀 <em></p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
