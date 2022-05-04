@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ben Kasongo Mukebo </h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Web Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kasongo-mukebo-ben/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://angel.co/u/benmukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Well, This is ME, Kasongo Mukebo Ben, student at <a href="https://www.microverse.org/"> <b> Microverse </b> </a> and <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
+    Well, This is ME, Kasongo Mukebo Ben, I'm a full-stack web developer. Studied at <a href="https://www.microverse.org/"> <b> Microverse </b> </a> and <b>final year</b> graduated from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University 🎓 <br></a>
     <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
@@ -24,13 +24,15 @@ fascinated</b>
   </em> 
   <br>  
 
-  <summary><h2>What I currently do</h2></summary>
+<!--   <summary><h2>What I currently do</h2></summary> -->
+ ### About Me :man:
     
-- 🔭 I’m currently styding at <a href="https://www.microverse.org/"> ![](https://img.shields.io/badge/Microverse-blueviolet)</a> online school for software developers.
-- 🌱 I’m currently learning **Ruby on Rails(APIs)** and some high level programming skills🌍️.
+- 🎓 I have completed the full-stack web curriculum at <a href="https://www.microverse.org/"> ![](https://img.shields.io/badge/Microverse-blueviolet)</a>, a remote software development school.
+- 🔭 Currently, I’m looking to collaborate on and contribute to open-source projects 🥅.
+- 👨‍💻  I’m currently buildind some side project and learning some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
-- 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm.
-- 💬 Ask me about **Frontend-Web design, IOT (Arduino), and Networking **✨️.. 
+- 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.
+- 💬 Ask me about **Frontend-Web design, Full-stack applications, IOT (Arduino), and Networking **✨️.. 
 - 📫 How to reach me: `l.benkasmukebo7@gmail.com`.
 - ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
     
@@ -59,17 +61,24 @@ fascinated</b>
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
-![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=blue)
+![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <hr>
 
-<!-- ### Connect with me 📫: -->
-### 📬 You can reach me at :
+<!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
+<h2 align="left">📫<b>You can reach me at :</b></h2>
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
-[![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)  [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl) [![Send me email](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo)
+[![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl)
+<a target="_blank" 
+   href="https://wa.me/+250784165613"><img 
+src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img>
+</a>
+[![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
 <!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
 
 
@@ -77,6 +86,6 @@ ___
 <!-- <br> -->
 <!-- 🤓 **Interested:** <br> -->
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
-<p align="center"><img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together 🚀 <em></p>
+<img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together 🚀 <em>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
