@@ -45,7 +45,7 @@ fascinated</b>
 
 <hr>
 
-💻 **Languages and Tools:** 🛠️<br>
+ ###  💻 **Languages and Tools:** 🛠️<br>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
