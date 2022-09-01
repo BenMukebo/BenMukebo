@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kasongo-mukebo-ben/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://angel.co/u/benmukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://medium.com/@benmukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="akash chowrasia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Ben_Mukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://twitter.com/BenMukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href = "https://mail.google.com/mail/&ogbl"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -73,6 +74,7 @@ fascinated</b>
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo)
 [![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)
+[![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=medium&style=social)](https://medium.com/@benmukebo)
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](https://mail.google.com/mail/&ogbl)
 <a target="_blank" 
    href="https://wa.me/+250784165613"><img 
