@@ -23,6 +23,10 @@ fascinated</b>
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
+  <br>
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=BenMukebo&color=3f37c9">
+  </div>
   <br>  
 
 <!--   <summary><h2>What I currently do</h2></summary> -->
@@ -41,8 +45,19 @@ fascinated</b>
 </p>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenMukebo&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenMukebo&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenMukebo&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+ -->
+<p align="center">&nbsp;<img align="center" height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BenMukebo&show_icons=true&theme=nightowl&count_private=true" />
+<img align="center" height="180" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMukebo&layout=compact&langs_count=6&show_icons=true&theme=nightowl" /></p>
+
+<br />
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=BenMukebo&theme=blue-green&card_width=800" alt="GitHub Streak">
+  </a>
+</p>
 
 <hr>
 
@@ -68,8 +83,10 @@ fascinated</b>
 
 <hr>
 
+### 🚀 Check out [my portfolio.](https://www.benmukebo.me/)
+
 <!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
-<h2 align="left">📫<b>You can reach me at :</b></h2>
+### <p align="left">📫<b>You can reach me at :</p>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo)
