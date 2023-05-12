@@ -31,7 +31,7 @@ fascinated</b>
 
 <!--   <summary><h2>What I currently do</h2></summary> -->
  ### About Me :man:
-    
+- 🎓 I have a **Bachelor's degree** in engineering (Technology). Obtained from Kigali Independent University, Rwanda.
 - 🎓 I have completed the full-stack web curriculum at <a href="https://www.microverse.org/"> ![](https://img.shields.io/badge/Microverse-blueviolet)</a>, a remote software development school.
 - 🔭 Currently, I’m looking to collaborate on and contribute to open-source projects 🥅.
 - 👨‍💻  I’m currently buildind some side project and learning some high level programming skills🌍️.
@@ -64,22 +64,29 @@ fascinated</b>
  ###  💻 **Languages and Tools:** 🛠️<br>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=blue)
-![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000000?style=flat&logo=ruby-on-rails&logoColor=CC0000) <br />
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=000000&labelColor=ffffff)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
+
+
+
 
 <hr>
 
