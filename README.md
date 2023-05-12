@@ -95,7 +95,7 @@ fascinated</b>
 <a href="https://www.upwork.com/freelancers/~019e45748f6b71433b" target="_blank"><img align="center" src="./images/upwork.png" alt="upwork community" width="42" /></a>
 </p>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
+<!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo)
 [![AngelList](https://img.shields.io/badge/--AngelList?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/benmukebo)
 [![Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=medium&style=social)](https://medium.com/@benmukebo)
@@ -104,7 +104,7 @@ fascinated</b>
    href="https://wa.me/+250784165613"><img 
 src="https://img.shields.io/badge/--whatsApp?label=WhatsApp&logo=WhatsApp&style=social"></img>
 </a>
-[![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo)
+[![GitHub](https://img.shields.io/badge/--github?label=GitHub&logo=GitHub&style=social)](https://github.com/BenMukebo) -->
 <!-- https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white -->
 
 
