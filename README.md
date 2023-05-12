@@ -48,8 +48,8 @@ fascinated</b>
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenMukebo&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenMukebo&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
  -->
-<p align="center">&nbsp;<img align="center" height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BenMukebo&show_icons=true&theme=nightowl&count_private=true" />
-<img align="center" height="180" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMukebo&layout=compact&langs_count=6&show_icons=true&theme=nightowl" /></p>
+<p align="center">&nbsp;<img align="center" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BenMukebo&show_icons=true&theme=nightowl&count_private=true" />
+<img align="center" height="160" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMukebo&layout=compact&langs_count=6&show_icons=true&theme=nightowl" /></p>
 
 <br />
 
