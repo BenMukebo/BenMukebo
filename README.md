@@ -49,7 +49,7 @@ fascinated</b>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenMukebo&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
  -->
 <p align="center">&nbsp;<img align="center" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BenMukebo&show_icons=true&theme=nightowl&count_private=true" />
-<img align="center" height="160" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMukebo&layout=compact&langs_count=6&show_icons=true&theme=nightowl" /></p>
+<img align="center" height="160" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMukebo&layout=compact&langs_count=6&show_icons=true&theme=nightowl" /></p>
 
 <br />
 
@@ -87,6 +87,13 @@ fascinated</b>
 
 <!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
 ### <p align="left">📫<b>You can reach me at :</p>
+<p align="left">
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/BenMukebo" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/kasongo-mukebo-ben/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://benmukebo.medium.com/" target="_blank"><img align="center" src="./images/medium1.png" alt="dev community" width="35" /></a> &nbsp;
+<a href="https://dev.to/benmukebo" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a> &nbsp;
+<a href="https://www.upwork.com/freelancers/~019e45748f6b71433b" target="_blank"><img align="center" src="./images/upwork.png" alt="upwork community" width="42" /></a>
+</p>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kasongo-mukebo-ben/)
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BenMukebo)
