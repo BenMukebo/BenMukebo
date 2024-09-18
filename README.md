@@ -89,10 +89,10 @@ fascinated</b>
 
 <hr>
 
-### 🚀 Check out [my portfolio.](https://www.benmukebo.me/)
+### Check out [my portfolio.](http://benmukebo.vercel.app/) 🚀
 
 <!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
-### <p align="left">📫<b>You can reach me at :</p>
+#### <p align="left">📫 <b>You can reach me at :</p>
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/BenMukebo" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/kasongo-mukebo-ben/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
