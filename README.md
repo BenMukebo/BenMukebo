@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ben Kasongo Mukebo </h1>
-<h3 align="center">Software Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kasongo-mukebo-ben/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://angel.co/u/benmukebo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    Well, This is ME, Kasongo Mukebo Ben, I'm a full-stack web developer. Studied at <a href="https://www.microverse.org/"> <b> Microverse </b> </a> and <b>final year</b> graduated from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University 🎓 <br></a>
+    Well, This is ME, Ben Mukebo. I'm a Full-Stack Software Engineer with 6+ years of experience, specializing in modern web technologies. I Studied at <a href="https://www.microverse.org/"> <b> Microverse </b> </a> and graduated with a <b> Bachelor’s Degree in Engineering. 🎓<br>
     <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 fascinated</b>
     about new challenges to 
@@ -31,14 +31,14 @@ fascinated</b>
 
 <!--   <summary><h2>What I currently do</h2></summary> -->
  ### About Me :man:
-- 🎓 I have a **Bachelor's degree** in engineering (Technology). Obtained from Kigali Independent University, Rwanda.
+- 🎓 I have a **Bachelor's degree** in engineering (Technology).
 - 🎓 I have completed the full-stack web curriculum at <a href="https://www.microverse.org/"> ![](https://img.shields.io/badge/Microverse-blueviolet)</a>, a remote software development school.
 - 🔭 Currently, I’m looking to collaborate on and contribute to open-source projects 🥅.
 - 👨‍💻  I’m currently buildind some side project and learning some high level programming skills🌍️.
 - 👯 I’m looking to collaborate and contributing to open source projects😄.
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.
 - 💬 Ask me about **Frontend-Web design, Full-stack applications, IOT (Arduino), and Networking **✨️.. 
-- 📫 How to reach me: `l.benkasmukebo7@gmail.com`.
+- 📫 How to reach me: `benmukebo07@gmail.com`.
 - ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
     
     <br>
@@ -89,7 +89,7 @@ fascinated</b>
 
 <hr>
 
-### Check out [my portfolio.](http://benmukebo.vercel.app/) 🚀
+### Check out my [Portfolio](http://benmukebo.vercel.app/) 🚀
 
 <!-- <h2 align="left"><b>Connect with me</b> 📫</h2> -->
 #### <p align="left">📫 <b>You can reach me at :</p>
